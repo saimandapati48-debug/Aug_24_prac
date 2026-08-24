@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hii this is branch1
+=======
+Hii this is master
+>>>>>>> 9d324409460b210635aeb0949569d9d973f3b5ec
