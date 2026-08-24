@@ -1,0 +1,9 @@
+docker pull <image>
+docker ps -a 
+docker ps
+docker image 
+docker run -d <image-id> --> -d to run a application in background
+docker run -p 80:80 -d <image-id>
+docker stop <container-id>
+docker rm <container-id>
+
